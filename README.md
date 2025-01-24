@@ -1,2 +1,2 @@
-# javascript_cooking_recipies
-Cooking recipies web application
+# cooking_recipies
+ Cooking recipies Web application. 
